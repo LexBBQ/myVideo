@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/videos?useUnicode=true&characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    database: 1
+    host: 192.168.0.102
+    port: 6379
+  http:
+    multipart:
+      max-file-size: 100Mb
+      max-request-size: 100Mb
+  jpa:
+    show-sql: true
+
+#mybatis:
+#  type-aliases-package: com.half.pojo
+#  mapper-locations: classpath:mapper/*.xml
+#mapper:
+#  identity: MYSQL
