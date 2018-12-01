@@ -4,6 +4,11 @@ import com.half.pojo.Users;
 
 
 public interface UserService {
+    /**
+     * 查询该用户在数据中是否存在
+     * @param users
+     * @return
+     */
     Users findUserIsExist(Users users);
 
     Users save(Users users);

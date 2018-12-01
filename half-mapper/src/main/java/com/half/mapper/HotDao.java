@@ -8,6 +8,7 @@ import org.springframework.data.repository.query.Param;
 import java.util.List;
 
 public interface HotDao extends JpaRepository<Hot,String> {
+    //通过Content查询 jpa自定义查询的固定格式findBy+对应条件的字段
     Hot findByContent(String key);
     Hot findByNum(Long l);
         //TODO 做模糊查询 完成搜索功能和热搜词的添加功能

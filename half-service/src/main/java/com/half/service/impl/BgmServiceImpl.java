@@ -14,11 +14,20 @@ public class BgmServiceImpl implements BgmService {
     @Autowired
     private BgmDao bgmDao;
 
+    /**
+     * 查询全部的bgm并返回
+     * @return
+     */
     @Override
     public List<Bgm> findAllBgm() {
         return bgmDao.findAll();
     }
 
+    /**
+     * 通过id查询bgm
+     * @param bgmId
+     * @return
+     */
     @Override
     public Bgm findOne(String bgmId) {
         return bgmDao.findOne(bgmId);

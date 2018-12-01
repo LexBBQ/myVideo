@@ -34,9 +34,11 @@ public class VideoController {
     private BgmService bgmService;
     @Autowired
     private VideosService videosService;
-
+    //该变量为ffmpeg所在的路径
     private final String FFMPEGEXE="F:\\ffmpeg\\bin\\ffmpeg.exe";
+    //用户资源文件的目录
     private final  String  FILESPACE="F:/file";
+    //默认每页显示数据数
     private final Integer SIZE=4;
 
     /**
@@ -66,8 +68,9 @@ public class VideoController {
         //文件保存的命名空间
         FileOutputStream fileOutputStream=null;
         InputStream inputStream=null;
-
+        //定义视频存放的相对路径
         String upLoadPathDb="/"+id+"/video";
+        //定义视频封面存放的相路径
         String coverPathDb="/"+id+"/video";
         String coverName="/"+UUID.randomUUID().toString()+".jpg";
         try {

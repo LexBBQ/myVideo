@@ -1,5 +1,7 @@
 package com.half.utils;
 
+import lombok.Data;
+
 /**
  * @Description: 自定义响应数据结构
  * 				这个类是提供给门户，ios，安卓，微信商城用的
@@ -11,6 +13,7 @@ package com.half.utils;
  * 				502：拦截器拦截到用户token出错
  * 				555：异常抛出信息
  */
+@Data
 public class LexJSONResult {
 
     // 响应业务状态
@@ -22,7 +25,7 @@ public class LexJSONResult {
     // 响应中的数据
     private Object data;
     
-    private String ok;	// 不使用
+    private String ok;
 
     public static LexJSONResult build(Integer status, String msg, Object data) {
         return new LexJSONResult(status, msg, data);
@@ -68,40 +71,6 @@ public class LexJSONResult {
         this.data = data;
     }
 
-    public Boolean isOK() {
-        return this.status == 200;
-    }
 
-    public Integer getStatus() {
-        return status;
-    }
-
-    public void setStatus(Integer status) {
-        this.status = status;
-    }
-
-    public String getMsg() {
-        return msg;
-    }
-
-    public void setMsg(String msg) {
-        this.msg = msg;
-    }
-
-    public Object getData() {
-        return data;
-    }
-
-    public void setData(Object data) {
-        this.data = data;
-    }
-
-	public String getOk() {
-		return ok;
-	}
-
-	public void setOk(String ok) {
-		this.ok = ok;
-	}
 
 }

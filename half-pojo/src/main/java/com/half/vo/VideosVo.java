@@ -39,6 +39,9 @@ public class VideosVo {
 
 
     private Date createTime;
+    /**
+     * 下面为新添加的两个字段，分别为用户头像的信息和昵称
+     */
 
     private String faceImage;
 

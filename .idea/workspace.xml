@@ -35,11 +35,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/half-api/src/main/resources/application.yml">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="1658">
+              <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
+              <folding>
+                <element signature="method#findByUserIdAndVideoId#0;class#UserServiceImpl#0" />
+                <element signature="e#6290#6745#0" expanded="true" />
+                <element signature="e#6744#6745#0" expanded="true" />
+                <element signature="method#findByUserIdAndFansId#0;class#UserServiceImpl#0" />
+                <element signature="e#7058#7502#0" expanded="true" />
+                <element signature="e#7501#7502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BgmController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/BgmController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -47,53 +64,8 @@
       <file leaf-file-name="WebMvc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/WebMvc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideosServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/VideosServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2515">
-              <caret line="200" selection-start-line="200" selection-end-line="200" />
-              <folding>
-                <element signature="e#5093#5105#0" expanded="true" />
-                <element signature="e#5040#5562#0" expanded="true" />
-                <element signature="e#5561#5562#0" expanded="true" />
-                <element signature="method#findAllVideosByVideoDesc#0;class#VideosServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideosService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/VideosService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Comments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/VideoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+            <state relative-caret-position="342">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -101,26 +73,44 @@
       <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/Swagger2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="637">
+              <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JsonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/JsonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BgmServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/BgmServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+            <state relative-caret-position="399">
+              <caret line="91" column="38" lean-forward="true" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentsVo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/CommentsVo.java">
+      <file leaf-file-name="PublishVo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/PublishVo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,11 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DispatcherServlet.class" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/mvn/repository/org/springframework/spring-webmvc/4.3.16.RELEASE/spring-webmvc-4.3.16.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <file leaf-file-name="RegistLoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/RegistLoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="476" selection-start-line="476" selection-end-line="476" />
+            <state relative-caret-position="114">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/VideoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1559">
+              <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
             </state>
           </provider>
         </entry>
@@ -148,10 +147,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myVideo" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersMapper.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersReportMapper.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/VideosMapper.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/BgmMapper.java" />
@@ -162,24 +163,16 @@
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/UsersReport.java" />
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Videos.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/HalfApplication.java" />
-        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersDao.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/Swagger2.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/IdUtils.java" />
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Users.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/controller/BgmController.java" />
-        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/BgmServiceImpl.java" />
-        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPeg.java" />
-        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPegCover.java" />
         <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/BgmService.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/VideosVo.java" />
-        <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/VideosVo.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/test/java/com/half/mapper/VideosDaoTest.java" />
-        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/PageResult.java" />
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Hot.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/Demo.java" />
         <option value="$PROJECT_DIR$/half-commom/pom.xml" />
-        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/HotDao.java" />
-        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/VideosDao.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/RedisOperator.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/controller/RegistLoginController.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/JsonUtils.java" />
@@ -187,12 +180,8 @@
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersLikeVideos.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersLikeVideosDao.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/BgmDao.java" />
-        <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/PublishVo.java" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersFansDao.java" />
-        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/UserService.java" />
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/UsersVo.java" />
-        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/controller/UserController.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/CommentsDao.java" />
         <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/TimeAgoUtils.java" />
@@ -200,8 +189,21 @@
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/WebMvc.java" />
         <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/CommentsVo.java" />
         <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/VideosService.java" />
-        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/VideosServiceImpl.java" />
+        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/LexJSONResult.java" />
+        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersDao.java" />
+        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/UserService.java" />
+        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPeg.java" />
+        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPegCover.java" />
+        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/BgmServiceImpl.java" />
+        <option value="$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/PageResult.java" />
+        <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/VideosVo.java" />
+        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/VideosDao.java" />
         <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/half-api/src/main/java/com/half/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/HotDao.java" />
+        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/VideosServiceImpl.java" />
+        <option value="$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/PublishVo.java" />
       </list>
     </option>
   </component>
@@ -244,14 +246,15 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,6 +306,195 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="half" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="half" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="intercepti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-commom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-commom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-commom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-commom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-commom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="half" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="half" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="half" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="halfdimension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="halfdimension" type="462c0819:PsiDirectoryNode" />
+              <item name="half-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -496,11 +688,14 @@
       <workItem from="1543199435512" duration="24347000" />
       <workItem from="1543279068540" duration="11734000" />
       <workItem from="1543376949030" duration="22206000" />
+      <workItem from="1543463619453" duration="23486000" />
+      <workItem from="1543539033647" duration="10445000" />
+      <workItem from="1543633134547" duration="14091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162547000" />
+    <option name="totallyTimeSpent" value="210569000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,16 +721,15 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.26780626" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.15811966" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.37464386" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49934897" weight="0.16096866" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49934897" weight="0.2510699" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32905984" />
-      <window_info active="true" content_ui="combo" x="644" y="167" width="247" height="489" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.17895442" />
+      <window_info active="true" content_ui="combo" x="644" y="167" width="247" height="489" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.17962466" />
       <window_info anchor="right" id="Bean Validation" order="8" weight="0.3297587" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -543,6 +737,7 @@
       <window_info anchor="bottom" id="Run Dashboard" order="1" sideWeight="0.49934897" visible="true" weight="0.32551724" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.37464386" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -557,187 +752,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="46" />
+      <option name="time" value="47" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/mvn/repository/org/springframework/data/spring-data-commons/1.13.11.RELEASE/spring-data-commons-1.13.11.RELEASE.jar!/org/springframework/data/domain/Sort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="245" column="23" selection-start-line="245" selection-start-column="23" selection-end-line="245" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/BgmService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/RedisOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/UsersLikeVideos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/VideosDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/HotDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/BgmDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/BgmServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/RegistLoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Videos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/PublishVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersLikeVideosDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="107" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersFansDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="104" selection-start-line="6" selection-start-column="104" selection-end-line="6" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/UsersFans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/UsersVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/LexJSONResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/CommentsDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/mvn/repository/org/springframework/data/spring-data-commons/1.13.11.RELEASE/spring-data-commons-1.13.11.RELEASE.jar!/org/springframework/data/domain/Page.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/VideosVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -783,44 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/PageResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/BgmController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/intercepti/Intercepto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/HalfApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Bgm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
@@ -861,83 +845,297 @@
     </entry>
     <entry file="jar://D:/mvn/repository/org/springframework/spring-webmvc/4.3.16.RELEASE/spring-webmvc-4.3.16.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
+        <state relative-caret-position="9044">
           <caret line="476" selection-start-line="476" selection-end-line="476" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Comments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="190">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/LexJSONResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="332">
+          <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/WebMvc.java">
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/MD5Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        <state relative-caret-position="76">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/RedisOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/CommentsVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="304">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/VideosService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/UsersVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/BgmDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPeg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/FFMPegCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/BgmService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/HalfApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn/repository/org/springframework/data/spring-data-jpa/1.11.11.RELEASE/spring-data-jpa-1.11.11.RELEASE.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/VideosDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/intercepti/Intercepto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/VideosVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/pojo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersLikeVideosDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/CommentsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/CommentsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/HotDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-mapper/src/main/java/com/half/mapper/UsersFansDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/VideosServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2515">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        <state relative-caret-position="860">
+          <caret line="270" column="5" lean-forward="true" selection-start-line="270" selection-start-column="5" selection-end-line="270" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-pojo/src/main/java/com/half/vo/PublishVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <element signature="e#5093#5105#0" expanded="true" />
-            <element signature="e#5040#5562#0" expanded="true" />
-            <element signature="e#5561#5562#0" expanded="true" />
-            <element signature="method#findAllVideosByVideoDesc#0;class#VideosServiceImpl#0" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/RegistLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/WebMvc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-commom/src/main/java/com/half/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/BgmServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-service/src/main/java/com/half/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1658">
+          <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
+          <folding>
+            <element signature="method#findByUserIdAndVideoId#0;class#UserServiceImpl#0" />
+            <element signature="e#6290#6745#0" expanded="true" />
+            <element signature="e#6744#6745#0" expanded="true" />
+            <element signature="method#findByUserIdAndFansId#0;class#UserServiceImpl#0" />
+            <element signature="e#7058#7502#0" expanded="true" />
+            <element signature="e#7501#7502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/BgmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/VideoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+        <state relative-caret-position="1559">
+          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half-api/src/main/java/com/half/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="91" column="38" lean-forward="true" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
         </state>
       </provider>
     </entry>

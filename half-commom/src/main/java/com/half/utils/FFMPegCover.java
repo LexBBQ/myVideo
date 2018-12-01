@@ -7,6 +7,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 该类用于生成上传视频的封面图
+ */
 public class FFMPegCover {
 
     private String ffmpegEXE;
